@@ -10,6 +10,7 @@ function fibo()
   for(c=0; c<10; c++)
   {
     console.log(Vfibo[c]);
+    document.write(Vfibo[c]);
   }
 }
 
